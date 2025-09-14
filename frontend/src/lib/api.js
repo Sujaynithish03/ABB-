@@ -1,5 +1,5 @@
 // API configuration and utilities
-const API_BASE_URL = 'https://curious-yeot-285019.netlify.app/';
+const API_BASE_URL = 'https://abb-1-plti.onrender.com';
 const API_V1_BASE = `${API_BASE_URL}/api/v1`;
 
 /**
