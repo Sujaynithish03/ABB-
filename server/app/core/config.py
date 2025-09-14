@@ -18,6 +18,8 @@ class Settings:
     
     # CORS settings
     ALLOWED_ORIGINS: list = [
+        "https://abb-1-plti.onrender.com",
+        "https://curious-yeot-285019.netlify.app/",
         "http://localhost:3000",
         "http://localhost:5173",  # Vite dev server
         "http://127.0.0.1:3000",
